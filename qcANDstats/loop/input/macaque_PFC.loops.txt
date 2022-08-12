@@ -1,0 +1,1 @@
+/home/user/data/lit/project/1KMG/in_house/hic/m/domain/loop/hiccups/hiccups_output/mediumRes25kb/merged_loops.bedpe
